@@ -1,0 +1,7 @@
+packages:
+  - "."
+  - "fixtures/demo-site"
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
+  - unrs-resolver

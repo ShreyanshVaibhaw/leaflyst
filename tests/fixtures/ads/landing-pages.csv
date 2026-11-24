@@ -1,0 +1,7 @@
+Landing pages report
+"November 1, 2026 - November 21, 2026"
+Landing page,Clicks,Impr.,Currency code,Cost,Conversions
+http://localhost:3100/landing,80,1500,USD,110.00,7.00
+http://localhost:3100/legacy,36,800,USD,61.20,1.00
+http://localhost:3100/old-page,30,710,USD,42.40,0.00
+Total: Account,146,3010,USD,213.60,8.00

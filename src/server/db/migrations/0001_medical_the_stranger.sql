@@ -1,0 +1,1 @@
+ALTER TABLE "changes" ADD COLUMN "merge_sha" text;

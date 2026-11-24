@@ -1,0 +1,9 @@
+node_modules
+.next
+pnpm-lock.yaml
+src/server/db/migrations
+reports
+research_notes
+plan.md
+.leaflyst-tmp
+fixtures
